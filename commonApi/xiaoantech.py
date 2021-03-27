@@ -1,4 +1,4 @@
-from data.ECUdata import imei
+from ECUData.ECUdata import imei
 
 # 小安协议网址
 url = "http://api.xiaoantech.com/v1/device"

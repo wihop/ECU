@@ -1,8 +1,8 @@
 import requests
 import json
 import unittest
-from data import ECUdata
-from common import xiaoantech
+from ECUData import ECUdata
+from commonApi import xiaoantech
 
 
 class Demo_API(unittest.TestCase):
